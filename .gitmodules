@@ -1,0 +1,3 @@
+[submodule "gemtest"]
+	path = gemtest
+	url = git@github.com:EvgeniiK/gemtest.git
